@@ -72,10 +72,10 @@
 "error_installed_failed" = "Error: Installation failed";
 "not_selected_kdk" = "No KDK selected";
 "starting_merging" = "Starting merging KDK";
-"locating_root_vol" = "Locate root vol...";
+"locating_root_vol" = "Locate root volume";
 "starting_merging_to_root_vol" = "Starting merging KDK to root volume";
 "slow_step" = "This step is slow, do not force stop!";
-"merged_completed_umounted" = "Merging completed, root vol unmounted";
+"merged_completed_umounted" = "Merging completed, root volume unmounted";
 "merged_successfully" = "Merging successfully";
 "merged_failed" = "Merge failed";
 "kdk_merged_successfully" = "KDK merged successfully";
