@@ -33,7 +33,7 @@ class LanguageManager: ObservableObject {
     }
     
     func availableLanguages() -> [String] {
-        return ["en", "zh-Hans", "zh-Hant", "es"] // 支持的语言列表
+        return ["en", "zh-Hans", "zh-Hant", "es", "it"] // 支持的语言列表
     }
     
     func displayName(for language: String) -> String {
