@@ -20,7 +20,7 @@ class LanguageManager: ObservableObject {
     }
     
     private init() {
-        // 获取保存的语言或系统语言
+        // 获取保存的语言或系统语言 - Get the saved language or system language
         if let savedLanguage = userDefaults.string(forKey: kLanguageKey) {
             currentLanguage = savedLanguage
         } else {
@@ -33,7 +33,7 @@ class LanguageManager: ObservableObject {
     }
     
     func availableLanguages() -> [String] {
-        return ["en", "zh-Hans", "zh-Hant", "es", "it"] // 支持的语言列表
+        return ["en", "zh-Hans", "zh-Hant", "es", "it"] // 支持的语言列表 - List of supported languages
     }
     
     func displayName(for language: String) -> String {
