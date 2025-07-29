@@ -92,7 +92,7 @@ struct AboutView: View {
             .frame(width: 120)
         }
         .padding()
-        .frame(width: 325, height: 425)
+        .frame(width: 355, height: 445)
     }
 }
 

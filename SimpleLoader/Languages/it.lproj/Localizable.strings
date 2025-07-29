@@ -15,8 +15,8 @@
 "installation_options" = "Opzioni di installazione";
 "show_advanced" = "Mostra opzioni avanzate";
 "hide_advanced" = "Nascondi opzioni avanzate";
-"force_overwrite" = "Forzare la sovrascrittura dei file esistenti";
-"backup_existing" = "Eseguire il backup di Kext/Framework esistenti";
+"force_overwrite" = "Forza la sovrascrittura dei file esistenti";
+"backup_existing" = "Esegui il backup di Kext/Framework esistenti";
 "advanced_options" = "Opzioni avanzate";
 "install_to_le" = "Installare in /Library/Extensions";
 "install_to_private" = "Consenti installazione Framework in /System/Library/PrivateFrameworks";
@@ -50,8 +50,8 @@
 "close" = "Chiudere";
 "rights_reserved" = "Tutti i diritti riservati";
 "contributor1" = "laobamac - Sviluppatore";
-"contributor2" = "perez987 - Traduzione parziale in inglese";
-"contributor3" = "Anto65 - con traduzione parziale in italiano disponibile";
+"contributor2" = "perez987 - Traduzione parziale in inglese i spagnolo";
+"contributor3" = "Anto65 - Traduzione parziale in italiano";
 "auto_detect" = "Rilevamento automatico";
 "language_settings" = "Configurazione della lingua";
 "language" = "Lingua";
