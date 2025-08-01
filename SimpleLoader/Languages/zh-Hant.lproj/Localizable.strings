@@ -50,9 +50,9 @@
 "close" = "關閉";
 "rights_reserved" = "保留所有權利";
 "contributor1" = "laobamac - 開發者";
-"contributor2" = "perez987 - 提供部分英文翻譯";
-"contributor3" = "Anto65 - 提供部分意大利語翻譯";
-"contributor4" = "lshbluesky - 提供部分韓語翻譯";
+"contributor2" = "perez987 - 部分西班牙文和英文翻譯";
+"contributor3" = "Anto65 - 部分義大利文翻譯";
+"contributor4" = "lshbluesky - 部分韓文翻譯";
 "auto_detect" = "自動偵測";
 "language_settings" = "語言設定";
 "language" = "語言";
