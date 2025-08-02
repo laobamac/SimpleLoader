@@ -41,7 +41,7 @@ struct AboutView: View {
             VStack(alignment: .leading, spacing: 8) {
                 InfoRow(icon: "number", title: "version".localized, value: "1.0.0")
                 InfoRow(icon: "person", title: "author".localized, value: "laobamac")
-                InfoRow(icon: "c", title: "copyright".localized, value: "© 2025 " + "rights_reserved".localized)
+                InfoRow(icon: "c.circle", title: "copyright".localized, value: "© 2025 " + "rights_reserved".localized)
                 InfoRow(icon: "globe", title: "language".localized,
                         value: languageManager.currentLanguage == "auto" ?
                         "auto_detect".localized :
