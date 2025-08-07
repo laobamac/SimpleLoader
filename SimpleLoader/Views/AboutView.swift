@@ -16,6 +16,8 @@ struct AboutView: View {
         "contributor1".localized,
         "contributor2".localized,
         "contributor3".localized,
+        "contributor4".localized,
+        "contributor5".localized,
     ]
     
     var body: some View {
@@ -40,7 +42,8 @@ struct AboutView: View {
             VStack(alignment: .leading, spacing: 8) {
                 InfoRow(icon: "number", title: "version".localized, value: "1.0.0")
                 InfoRow(icon: "person", title: "author".localized, value: "laobamac")
-                InfoRow(icon: "c", title: "copyright".localized, value: "© 2025 " + "rights_reserved".localized)
+                // icon: "c" changed to icon:"c.circle" by lshbluesky
+                InfoRow(icon: "c.circle", title: "copyright".localized, value: "© 2025 " + "rights_reserved".localized)
                 InfoRow(icon: "globe", title: "language".localized,
                         value: languageManager.currentLanguage == "auto" ?
                         "auto_detect".localized :
@@ -92,7 +95,7 @@ struct AboutView: View {
             .frame(width: 120)
         }
         .padding()
-        .frame(width: 355, height: 445)
+        .frame(width: 355, height: 480) // To accommodate a longer list of contributors
     }
 }
 

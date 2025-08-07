@@ -6,7 +6,7 @@
 //
 
 /*
-  Localizable.strings (Italian)
+  Localizable.strings (Italian) by Anto65
   SimpleLoader
 */
 
@@ -15,8 +15,8 @@
 "installation_options" = "Opzioni di installazione";
 "show_advanced" = "Mostra opzioni avanzate";
 "hide_advanced" = "Nascondi opzioni avanzate";
-"force_overwrite" = "Forza la sovrascrittura dei file esistenti";
-"backup_existing" = "Esegui il backup di Kext/Framework esistenti";
+"force_overwrite" = "Forzare la sovrascrittura dei file esistenti";
+"backup_existing" = "Eseguire il backup di Kext/Framework esistenti";
 "advanced_options" = "Opzioni avanzate";
 "install_to_le" = "Installare in /Library/Extensions";
 "install_to_private" = "Consenti installazione Framework in /System/Library/PrivateFrameworks";
@@ -51,7 +51,9 @@
 "rights_reserved" = "Tutti i diritti riservati";
 "contributor1" = "laobamac - Sviluppatore";
 "contributor2" = "perez987 - Traduzione parziale in inglese i spagnolo";
-"contributor3" = "Anto65 - Traduzione parzialein italiano";
+"contributor3" = "Anto65 - Traduzione parziale in italiano";
+"contributor4" = "lshbluesky - Traduzione parziale in coreano";
+"contributor5" = "jonasw8 - Traduzione parziale in brasiliano";
 "auto_detect" = "Rilevamento automatico";
 "language_settings" = "Configurazione della lingua";
 "language" = "Lingua";
@@ -85,7 +87,6 @@
 "force" = "Forzare la sovrascrittura";
 "backup" = "Copia di backup";
 "rebuild" = "Ricostruisci la cache";
-"about" = "A proposito di";
 "install_completed" = "Installazione completata";
 "op_successfully" = "Operazione riuscita";
 "op_failed" = "Operazione fallita";
@@ -106,7 +107,6 @@
 "revert_successfully" = "Istantanea ripristinata con successo";
 "revert_failed" = "Ripristino Instantanea fallito";
 "selected_kdk" = "KDK selezionato";
-"cancel" = "Annullare";
 "only_merge_kdk" = "Combina solo KDK";
 "creat_snapshot" = "Crea Istantanea";
 "restore_snapshot" = "Ripristina Istantanea";
@@ -127,7 +127,6 @@
 "operation_canceled_message" = "L'operazione corrente è stata interrotta. Per garantire l'integrità del sistema, si consiglia di ripristinare lo snapshot e ricostruire la cache.";
 "presets" = "Predefiniti";
 "select_preset_instruction" = "Seleziona un predefinito per configurare automaticamente le opzioni di installazione";
-"author" = "Autore";
 "requires_kdk" = "Richiede KDK";
 "rebuilds_cache" = "Ricostruisci cache";
 "error_preset_files_dir_not_found" = "Errore: directory dei file predefiniti non trovata";

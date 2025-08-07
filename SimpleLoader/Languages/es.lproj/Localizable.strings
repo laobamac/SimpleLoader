@@ -6,7 +6,7 @@
 //
 
 /*
-  Localizable.strings (Spanish)
+  Localizable.strings (Spanish) by perez987
   SimpleLoader
 */
 
@@ -50,8 +50,10 @@
 "close" = "Cerrar";
 "rights_reserved" = "Todos los derechos reservados";
 "contributor1" = "laobamac - Desarrollador";
-"contributor2" = "perez987 - Traducción parcial al inglés";
-"contributor3" = "Anto65 - proporciona algunas traducciones al italiano";
+"contributor2" = "perez987 - Traducción parcial a español e inglés";
+"contributor3" = "Anto65 - Traducción parcial al italiano";
+"contributor4" = "lshbluesky - Traducción parcial al coreano";
+"contributor5" = "jonasw8 - Traducción parcial al brasileño";
 "auto_detect" = "Detección automática";
 "language_settings" = "Configuración de idioma";
 "language" = "Idioma";
@@ -85,7 +87,6 @@
 "force" = "Forzar sobrescritura";
 "backup" = "Copia de seguridad";
 "rebuild" = "Reconstruir caché";
-"about" = "Acerca de";
 "install_completed" = "Instalación completada";
 "op_successfully" = "Operación exitosa";
 "op_failed" = "Operación fallida";
@@ -106,10 +107,8 @@
 "revert_successfully" = "Instantánea restaurada con éxito";
 "revert_failed" = "Fallo al restaurar instantánea";
 "selected_kdk" = "KDK seleccionado";
-"cancel" = "Cancelar";
 "only_merge_kdk" = "Sólo combinar KDK";
 "creat_snapshot" = "Crear instantánea";
-"restore_snapshot" = "Restaurar instantánea";
 "select_kdk" = "Seleccionar KDK";
 "select_installed_kdk" = "Seleccionar KDK instalado";
 "not_selected" = "No seleccionado";
@@ -119,21 +118,3 @@
 "drag_here" = "Arrastra y suelta archivos Kext/Framework aquí";
 "or" = "O";
 "click_to_choose" = "Haz clic para seleccionar archivos...";
-"operation_success_title" = "Finalizado con éxito";
-"operation_success_restart_message" = "La operación se completó con éxito. Recomendamos reiniciar inmediatamente el ordenador para que los cambios hagan efecto.";
-"restart_now" = "Reiniciar Ahora";
-"restart_later" = "Reiniciar Más Tarde";
-"operation_canceled_title" = "Operación Cancelada";
-"operation_canceled_message" = "Se ha abortado la operación actual. Para asegurar la integridad del sistema, recomendamos restaurar instantánea y reconstruir la caché.";
-"presets" = "Presets";
-"select_preset_instruction" = "Selecciona un ajuste predefinido para configurar automáticamente opciones de instalación";
-"author" = "Autor";
-"requires_kdk" = "Requiere KDK";
-"rebuilds_cache" = "Reconstruir Caché";
-"error_preset_files_dir_not_found" = "Error: Directorio de ajustes predefinidos no encontrado";
-"error_preset_requires_kdk" = "Error: Este ajuste predefinido requiere seleccionar un KDK";
-"warning_file_not_found" = "Aviso: Archivo no encontrado";
-"error_no_system_version_selected" = "Error: Versión del sistema no seleccionada";
-"warning_version_not_found" = "Aviso: Versión del sistema no encontrada";
-"confirm_install_preset" = "Confirma Instalar Ajuste Predefinido";
-"install" = "Instalar";

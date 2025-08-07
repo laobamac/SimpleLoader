@@ -6,7 +6,7 @@
 //
 
 /*
-  Localizable.strings (Chinese Traditional)
+  Localizable.strings (Chinese Traditional) by laobamac
   SimpleLoader
 */
 
@@ -52,6 +52,8 @@
 "contributor1" = "laobamac - 開發者";
 "contributor2" = "perez987 - 部分西班牙文和英文翻譯";
 "contributor3" = "Anto65 - 部分義大利文翻譯";
+"contributor4" = "lshbluesky - 部分韓文翻譯";
+"contributor5" = "jonasw8 - 部分巴西語翻譯";
 "auto_detect" = "自動偵測";
 "language_settings" = "語言設定";
 "language" = "語言";
@@ -85,7 +87,6 @@
 "force" = "強制覆蓋";
 "backup" = "備份";
 "rebuild" = "重建快取";
-"about" = "關於軟體";
 "install_completed" = "安裝完成";
 "op_successfully" = "操作成功";
 "op_failed" = "操作失敗";
@@ -106,7 +107,6 @@
 "revert_successfully" = "快照還原成功";
 "revert_failed" = "快照還原失敗";
 "selected_kdk" = "已選擇 KDK";
-"cancel" = "取消";
 "only_merge_kdk" = "僅合併 KDK";
 "creat_snapshot" = "建立快照";
 "restore_snapshot" = "還原快照";
@@ -120,18 +120,17 @@
 "or" = "或";
 "click_to_choose" = "點擊選擇檔案...";
 "operation_success_title" = "操作成功";
-"operation_success_restart_message" = "操作已成功完成，建議立即重新啟動電腦以使變更生效。";
-"restart_now" = "立刻重啟";
-"restart_later" = "稍後再說";
+"operation_success_restart_message" = "操作成功完成。我們建議您立即重新啟動電腦以使變更生效。";
+"restart_now" = "立即重啟";
+"restart_later" = "稍後重啟";
 "operation_canceled_title" = "操作已取消";
-"operation_canceled_message" = "目前操作終止，為保證系統完整，建議恢復快照後進行一次重建快取。";
-"presets" = "預設補丁";
-"select_preset_instruction" = "選擇一個預設補丁來自動配置安裝選項";
-"author" = "作者";
-"requires_kdk" = "需要KDK";
+"operation_canceled_message" = "目前操作已中止。為確保系統完整性，我們建議您恢復快照並重建快取。";
+"presets" = "預設";
+"select_preset_instruction" = "選擇預設以自動配置安裝選項";
+"requires_kdk" = "需要 KDK";
 "rebuilds_cache" = "重建快取";
 "error_preset_files_dir_not_found" = "錯誤：找不到預設檔案目錄";
-"error_preset_requires_kdk" = "錯誤：此預設需要先選擇KDK";
+"error_preset_requires_kdk" = "錯誤：此預設需要選擇 KDK";
 "warning_file_not_found" = "警告：找不到檔案";
 "error_no_system_version_selected" = "錯誤：未選擇系統版本";
 "warning_version_not_found" = "警告：找不到系統版本";

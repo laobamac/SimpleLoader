@@ -6,7 +6,7 @@
 //
 
 /*
-  Localizable.strings (Chinese)
+  Localizable.strings (Chinese) by laobamac
   SimpleLoader
 */
 
@@ -52,6 +52,8 @@
 "contributor1" = "laobamac - 开发者";
 "contributor2" = "perez987 - 部分西班牙语和英语翻译";
 "contributor3" = "Anto65 - 部分意大利语翻译";
+"contributor4" = "lshbluesky - 部分韩语翻译";
+"contributor5" = "jonasw8 - 部分巴西语翻译";
 "auto_detect" = "自动检测";
 "language_settings" = "语言设置";
 "language" = "语言";
@@ -85,7 +87,6 @@
 "force" = "强制覆盖";
 "backup" = "备份";
 "rebuild" = "重建缓存";
-"about" = "关于软件";
 "install_completed" = "安装完成";
 "op_successfully" = "操作成功";
 "op_failed" = "操作失败";
@@ -106,7 +107,6 @@
 "revert_successfully" = "快照恢复成功";
 "revert_failed" = "快照恢复失败";
 "selected_kdk" = "已选择KDK";
-"cancel" = "取消";
 "only_merge_kdk" = "仅合并KDK";
 "creat_snapshot" = "创建快照";
 "restore_snapshot" = "恢复快照";
@@ -127,7 +127,6 @@
 "operation_canceled_message" = "当前操作被终止，为保证系统完整，建议恢复快照后进行一次重建缓存。";
 "presets" = "预设补丁";
 "select_preset_instruction" = "选择一个预设补丁来自动配置安装选项";
-"author" = "作者";
 "requires_kdk" = "需要KDK";
 "rebuilds_cache" = "重建缓存";
 "error_preset_files_dir_not_found" = "错误：找不到预设文件目录";
