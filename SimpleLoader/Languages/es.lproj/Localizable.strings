@@ -119,7 +119,7 @@
 "or" = "O";
 "click_to_choose" = "Haz clic para seleccionar archivos...";
 "rebuilding_cache" = "Reconstruyendo caché del kernel.";
-"creating_snapshot" = "Creando snapshot del sistema.";
+"creating_snapshot" = "Creando instantánea del sistema.";
 "operation_success_title" = "Operación terminada con éxito";
 "operation_success_restart_message" = "La operación terminó con éxito. Recomendamos reiniciar el ordenador inmediatamente para que los cambios surtan efecto.";
 "restart_now" = "Reiniciar Ahora";
