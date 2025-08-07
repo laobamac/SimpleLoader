@@ -87,7 +87,6 @@
 "force" = "강제로 덮어쓰기";
 "backup" = "백업";
 "rebuild" = "캐시 재생성";
-"about" = "이에 관하여";
 "install_completed" = "설치가 완료되었습니다.";
 "op_successfully" = "작업이 완료되었습니다.";
 "op_failed" = "작업하는 도중에 오류가 발생하였습니다.";
@@ -108,7 +107,6 @@
 "revert_successfully" = "스냅샷이 성공적으로 복원되었습니다.";
 "revert_failed" = "스냅샷을 복원하는 도중에 오류가 발생하였습니다.";
 "selected_kdk" = "KDK가 선택되었습니다.";
-"cancel" = "취소";
 "only_merge_kdk" = "KDK만 병합";
 "creat_snapshot" = "스냅샷 생성";
 "restore_snapshot" = "스냅샷 복원";
@@ -129,7 +127,6 @@
 "operation_canceled_message" = "작업이 취소되었습니다. 시스템의 안정성을 위해 스냅샷을 복원한 후 캐시를 재생성하는 것을 권장합니다.";
 "presets" = "프리셋 패치";
 "select_preset_instruction" = "프리셋 패치를 선택하여 설치 옵션을 자동으로 구성하십시오.";
-"author" = "저자";
 "requires_kdk" = "KDK 필요";
 "rebuilds_cache" = "캐시 재생성";
 "error_preset_files_dir_not_found" = "오류: 프리셋 파일의 디렉터리를 찾을 수 없습니다.";
