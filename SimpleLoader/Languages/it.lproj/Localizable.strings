@@ -50,8 +50,9 @@
 "close" = "Chiudere";
 "rights_reserved" = "Tutti i diritti riservati";
 "contributor1" = "laobamac - Sviluppatore";
-"contributor2" = "perez987 - Traduzione parziale in inglese";
-"contributor3" = "Anto65 - con traduzione parziale in italiano disponibile";
+"contributor2" = "perez987 - Traduzione parziale in inglese i spagnolo";
+"contributor3" = "Anto65 - Traduzione parziale in italiano";
+"contributor4" = "lshbluesky - Traduzione parziale in coreano";
 "auto_detect" = "Rilevamento automatico";
 "language_settings" = "Configurazione della lingua";
 "language" = "Lingua";
