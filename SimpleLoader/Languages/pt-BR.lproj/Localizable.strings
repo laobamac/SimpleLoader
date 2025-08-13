@@ -87,7 +87,6 @@
 "force" = "Forçar Sobrescrever";
 "backup" = "Cópia de Segurança";
 "rebuild" = "Reconstruir Cache";
-"about" = "Sobre";
 "install_completed" = "Instalação Completada";
 "op_successfully" = "Operação satistatória";
 "op_failed" = "Operação falhou";
@@ -108,7 +107,6 @@
 "revert_successfully" = "Snapshot restaurado com sucesso";
 "revert_failed" = "Restauração do snapshot falhou";
 "selected_kdk" = "KDK selecionado";
-"cancel" = "Cancelar";
 "only_merge_kdk" = "Somente Mesclar KDK";
 "creat_snapshot" = "Criar Snapshot";
 "restore_snapshot" = "Restaurar Snapshot";
@@ -129,7 +127,6 @@
 "operation_canceled_message" = "A operação atual foi abortada. Para garantir a integridade do sistema, recomendamos restaurar o snapshot e reconstruir o cache.";
 "presets" = "Predefinições";
 "select_preset_instruction" = "Selecione uma predefinição para configurar automaticamente as opções de instalação";
-"author" = "Autor";
 "requires_kdk" = "Requer KDK";
 "rebuilding_cache" = "Reconstruindo kernel cache.";
 "error_preset_files_dir_not_found" = "Erro: Diretório de arquivos predefinidos não encontrado";
