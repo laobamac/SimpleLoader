@@ -16,6 +16,8 @@ struct AboutView: View {
         "contributor1".localized,
         "contributor2".localized,
         "contributor3".localized,
+        "contributor4".localized,
+        "contributor5".localized,
     ]
     
     var body: some View {
